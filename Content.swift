@@ -68,9 +68,9 @@ let stories = [
     
     //Page 4
         Story(storyText: "Perfect! So you like smoky flavors. In whiskey circles this is refered to as peat or peatiness. How much do you like these bold, smokey flavors?",
-              choice1: "A little. I like a hint of smoke.",
+              choice1: "I like a hint of smoke.         ",
               choice1Destination: 5,
-              choice2: "A lot. I want a campfire in a glass.",
+              choice2: "I want a campfire in a glass.   ",
               choice2Destination: 10,
               choice3: "N/A",
               choice3Destination: 0,
@@ -101,9 +101,9 @@ let stories = [
     
     //Page 7
         Story(storyText: "Based on your answers, we believe you'll love rye whiskeys and bourbons with high rye content. These tend whiskeys have bolder flavors than many bourbons but are smoother than a scotch. Now, are you interested in seeing the most popular brands or some lesser known ones?",
-              choice1: "Greatest Hits",
+              choice1: "Big Brands ",
               choice1Destination: 20,
-              choice2: "B Sides",
+              choice2: "Hidden Gems",
               choice2Destination: 21,
               choice3: "N/A",
               choice3Destination: 0,
@@ -112,9 +112,9 @@ let stories = [
     
     //Page 8
         Story(storyText: "We think you’d really enjoy Speysides. These are scotches from a specific region. While Speysides are made in the Highlands of Scotland, these scotches are considered separate and distinct from Highland whiskies. Now, are you interested in seeing the most popular brands or some lesser known ones?",
-              choice1: "Greatest Hits",
+              choice1: "Big Brands ",
               choice1Destination: 22,
-              choice2: "B Sides",
+              choice2: "Hidden Gems",
               choice2Destination: 23,
               choice3: "N/A",
               choice3Destination: 0,
@@ -123,9 +123,9 @@ let stories = [
     
     //Page 9
         Story(storyText: "We think you would love a Highland malt. Highland malts encompass a broad range of whiskys but they tend to have a delightful balance of smoke, salt, and fruit flavors. Now, are you interested in seeing the most popular brands or some lesser known ones?",
-              choice1: "Greatest Hits",
+              choice1: "Big Brands ",
               choice1Destination: 24,
-              choice2: "B Sides",
+              choice2: "Hidden Gems",
               choice2Destination: 25,
               choice3: "N/A",
               choice3Destination: 0,
@@ -134,9 +134,9 @@ let stories = [
     
     //Page 10
         Story(storyText: "We think you would love an Islay: boldly peaty whiskys from an island off the West coast of Scotland. Now, are you interested in seeing the most popular brands or some lesser known ones?",
-              choice1: "Greatest Hits",
+              choice1: "Big Brands ",
               choice1Destination: 26,
-              choice2: "B Sides",
+              choice2: "Hidden Gems",
               choice2Destination: 27,
               choice3: "N/A",
               choice3Destination: 0,
@@ -145,9 +145,9 @@ let stories = [
     
     //Page 11
         Story(storyText: "We think you would love a nice, smooth bourbon. Bourbons are triple-distilled for extra smoothness.. Now, are you interested in seeing the most popular brands or some lesser known ones?",
-              choice1: "Greatest Hits",
+              choice1: "Big Brands ",
               choice1Destination: 14,
-              choice2: "B Sides",
+              choice2: "Hidden Gems",
               choice2Destination: 15,
               choice3: "N/A",
               choice3Destination: 0,
@@ -156,9 +156,9 @@ let stories = [
     
     //Page 12
         Story(storyText: "We think you'll love a nice Irish whiskey. Ireland is the homeland of whiskey and the word itself comes from the Irish phrase: uisce bheatha i.e. water of life. Now, are you interested in seeing the most popular brands or some lesser known ones?",
-              choice1: "Greatest Hits",
+              choice1: "Big Brands ",
               choice1Destination: 16,
-              choice2: "B Sides",
+              choice2: "Hidden Gems",
               choice2Destination: 17,
               choice3: "N/A",
               choice3Destination: 0,
@@ -167,9 +167,9 @@ let stories = [
     
     //Page 13
         Story(storyText: "It sounds like you're looking for a smooth sipping whiskey. Both bourbons and Irish whiskeys are triple-distilled for a smoother sipping experience compared to Scotch. Now, are you interested in seeing the most popular brands or some lesser known ones?",
-              choice1: "Greatest Hits",
+              choice1: "Big Brands ",
               choice1Destination: 18,
-              choice2: "B Sides",
+              choice2: "Hidden Gems",
               choice2Destination: 19,
               choice3: "N/A",
               choice3Destination: 0,
