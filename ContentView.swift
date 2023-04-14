@@ -15,18 +15,18 @@ struct ContentView: View {
                     .resizable()
                     .edgesIgnoringSafeArea(.all)
                 VStack{
-                    Text("Whis-key")
-                        .font(.largeTitle)
-                        .multilineTextAlignment(.center)
-                    Text("Unlock the world of whiskies!")
-                        .font(.headline)
+                    Image("whiskylogo")
+                        .resizable()
+                        .edgesIgnoringSafeArea(.all)
+                        .frame(width: 340, height: 318)
+                        .cornerRadius(30)
                     NavigationLink(destination: PageView(choiceMade: .constant(0))) {
                         Text("I'm 21 or over!")
                     }
                     .buttonStyle(.borderedProminent)
                 }
             }
-        }.accentColor(.black)
+        }.accentColor(.blue)
     }
 }
 
